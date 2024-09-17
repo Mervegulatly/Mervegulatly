@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervegulatly&show_icons=true&locale=en&layout=compact" alt="mervegulatly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervegulatly&show_icons=true&locale=en" alt="mervegulatly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervegulatly&show_icons=true&locale=en" alt="mervegulatly" /></p></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mervegulatly&" alt="mervegulatly" /></p>
 
