@@ -5,7 +5,9 @@
 
 -  📚 Mehmet Akif Ersoy University
 -  👨‍🎓 Software Engineer
-
+- 🌱 I’m currently learning **Bootstrap**
+- 💬 Ask me about **React**
+- 📫 How to reach me **mervegulatly7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
