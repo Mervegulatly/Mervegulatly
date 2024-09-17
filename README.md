@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/564x/91/77/97/91779771e0c323b769b5468319754d3a.jpg" alt="MasterHead" width="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Merve Gül ATALAY</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
