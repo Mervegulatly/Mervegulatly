@@ -9,7 +9,7 @@
 
 -  📚 Mehmet Akif Ersoy University
 -  👨‍🎓 Software Engineer
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap** and Spring Boot
 - 💬 Ask me about **React**
 - 📫 How to reach me **mervegulatly7@gmail.com**
 
