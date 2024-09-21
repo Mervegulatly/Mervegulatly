@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mervegulatly&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mervegulatly&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mervegulatly&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervegulatly&label=Profile%20views&color=0e75b6&style=flat" alt="mervegulatly" /> </p>
 
