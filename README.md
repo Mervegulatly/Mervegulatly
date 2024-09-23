@@ -39,4 +39,4 @@
   </a>
 </p>
 
-![GitHub Snake](https://github.com/Mervegulatly/Mervegulatly/blob/6df7b29dd8219f717a53420721b40af395f5e4b0/github-snake-dark.svg)
+![GitHub Snake](https://github.com/OfficialCodeVoyage/OfficialCodeVoyage/blob/6df7b29dd8219f717a53420721b40af395f5e4b0/github-snake-dark.svg)
