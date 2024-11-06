@@ -32,6 +32,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mervegulatly&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
 ---
 <p align="left">
   <a href="https://visitcount.itsvg.in" target="_blank">
