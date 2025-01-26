@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Merve Gül ATALAY</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 ## Who am I?
 
