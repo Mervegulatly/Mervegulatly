@@ -34,9 +34,9 @@
 
 
 ---
-<p align="left">
+<!--<p align="left">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=mervegulatly&label=Profile%20views&color=0e75b6&style=flat" alt="mervegulatly" />
   </a>
-</p>
+</p>-->
 
