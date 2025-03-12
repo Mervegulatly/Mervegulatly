@@ -11,7 +11,7 @@
 
 -  📚 Mehmet Akif Ersoy University
 -  👨‍🎓 Software Engineer
-- 🌱 I’m currently learning **Python**, **C#** and **Spring Boot**
+- 🌱 I’m currently learning **Python** and **C#**
 - 💬 Ask me about **React** and **Selenium**
 - 📫 How to reach me **mervegulatly7@gmail.com**
 
