@@ -12,7 +12,6 @@
 -  📚 Mehmet Akif Ersoy University
 -  👨‍🎓 Software Engineer
 - 🌱 I’m currently learning **Python** and **C#**
-- 💬 Ask me about **JavaScript** and **Selenium**
 - 📫 How to reach me **mervegulatly7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
