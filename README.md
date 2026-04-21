@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Coding" width="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hmdmdqNjZpMGh2YmFoN2I3a2ZwbWlpdm5pang1ZWIxcmF2YTBwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif">
 </p>
-
+-->
 
 
 <h1 align="center">Hi 👋, I'm Merve Gül ATALAY</h1>
